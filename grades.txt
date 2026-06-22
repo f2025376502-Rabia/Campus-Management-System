@@ -1,0 +1,5 @@
+roll,course_code,grade,semester
+BSAI-24-101,PF101,A,Spring2025
+BSAI-24-101,ST101,B,Spring2025
+BSAI-24-102,PF101,B+,Spring2025
+BSAI-24-102,DS201,A,Spring2025

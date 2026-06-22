@@ -1,0 +1,6 @@
+code,title,credits,seats,prereq
+PF101,Programming Fundamentals,3,2,NONE
+DS201,Data Structures,4,30,PF101
+DB202,Database Systems,3,25,PF101
+ST101,Statistics,3,40,NONE
+ML301,Machine Learning,3,20,DS201

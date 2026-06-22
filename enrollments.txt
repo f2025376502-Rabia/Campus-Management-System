@@ -1,0 +1,7 @@
+roll,course_code,semester,status
+BSAI-24-101,PF101,Spring2025,enrolled
+BSAI-24-101,ST101,Spring2025,enrolled
+BSAI-24-102,PF101,Spring2025,enrolled
+BSAI-24-102,DS201,Spring2025,enrolled
+BSAI-24-103,PF101,Spring2025,dropped
+BSAI-24-104,DB202,Spring2025,enrolled

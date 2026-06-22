@@ -1,0 +1,6 @@
+roll,name,dept,cgpa,status
+BSAI-24-101,Fatima Noor,AI,3.7,active
+BSAI-24-102,Hamza Sheikh,AI,3.4,active
+BSAI-24-103,Zainab Riaz,CS,3.9,active
+BSAI-23-088,Omar Farooq,AI,2.8,inactive
+BSAI-24-104,Maria Javed,CS,3.5,active
